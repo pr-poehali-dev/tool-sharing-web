@@ -104,7 +104,7 @@ const Index = () => {
         <nav className="container mx-auto px-4 py-4 flex items-center justify-between">
           <div className="flex items-center gap-2">
             <Icon name="Hammer" size={32} className="text-primary" />
-            <span className="text-2xl font-bold">ToolShare</span>
+            <span className="text-2xl font-bold">ИнструментCity</span>
           </div>
           <div className="hidden md:flex items-center gap-8">
             <a href="#features" className="hover:text-primary transition-colors">Возможности</a>
@@ -308,7 +308,7 @@ const Index = () => {
               <div className="w-12 h-12 rounded-full bg-primary/10 flex items-center justify-center mx-auto mb-3">
                 <Icon name="Mail" size={24} className="text-primary" />
               </div>
-              <p className="font-medium">support@toolshare.ru</p>
+              <p className="font-medium">support@instrumentcity.ru</p>
             </div>
             <div className="text-center">
               <div className="w-12 h-12 rounded-full bg-primary/10 flex items-center justify-center mx-auto mb-3">
@@ -332,7 +332,7 @@ const Index = () => {
             <div>
               <div className="flex items-center gap-2 mb-4">
                 <Icon name="Hammer" size={28} className="text-primary" />
-                <span className="text-xl font-bold">ToolShare</span>
+                <span className="text-xl font-bold">ИнструментCity</span>
               </div>
               <p className="text-sm opacity-80">Сервис аренды строительных инструментов нового поколения</p>
             </div>
@@ -362,7 +362,7 @@ const Index = () => {
             </div>
           </div>
           <div className="border-t border-white/10 mt-8 pt-8 text-center text-sm opacity-60">
-            <p>© 2024 ToolShare. Все права защищены.</p>
+            <p>© 2024 ИнструментCity. Все права защищены.</p>
           </div>
         </div>
       </footer>
